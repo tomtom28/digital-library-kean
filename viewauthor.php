@@ -201,7 +201,7 @@
     </title>
 
    <!-- Map scripts/resources -->
-   <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=geometry"></script>
+   <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=geometry&key=AIzaSyCkUOdZ5y7hMm0yrcCQoCvLwzdM6M8s5qk"></script>
    <script type="text/javascript" src="map_libraries/OverlappingMarkerSpiderfier.js"></script>
    <script type="text/javascript" src="map_libraries/markerwithlabel.js"></script>
    <script type="text/javascript" src="map_libraries/polyline_labels.js"></script>
