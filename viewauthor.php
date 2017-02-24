@@ -201,7 +201,10 @@
     </title>
 
    <!-- Map scripts/resources -->
-   <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=geometry&key=AIzaSyCkUOdZ5y7hMm0yrcCQoCvLwzdM6M8s5qk"></script>
+      <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCwJ4VNrbXp9LO1_9O4H4kg-vwq8C0nPTk&callback=initMap">
+    </script>
+<!--    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=geometry&key=AIzaSyCkUOdZ5y7hMm0yrcCQoCvLwzdM6M8s5qk"></script> -->
    <script type="text/javascript" src="map_libraries/OverlappingMarkerSpiderfier.js"></script>
    <script type="text/javascript" src="map_libraries/markerwithlabel.js"></script>
    <script type="text/javascript" src="map_libraries/polyline_labels.js"></script>
